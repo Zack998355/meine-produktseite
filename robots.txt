@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Zack998355.github.io/meine-produktseite/sitemap.xml
