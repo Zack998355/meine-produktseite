@@ -3,33 +3,10 @@
     <title>Mood_House</title>
     <link href="https://Zack998355.github.io/meine-produktseite/feed.xml" rel="self" />
     <link href="https://Zack998355.github.io/meine-produktseite" />
-    <updated>2025-05-08T21:49:56+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://Zack998355.github.io/meine-produktseite</id>
 
-    <entry>
-        <title>LED Lamp</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://Zack998355.github.io/meine-produktseite/led-lamp.html"/>
-        <id>https://Zack998355.github.io/meine-produktseite/led-lamp.html</id>
-        <media:content url="https://Zack998355.github.io/meine-produktseite/media/posts/2/61V1txZ0J7L._AC_SL1500_.jpg" medium="image" />
-
-        <updated>2025-05-08T21:49:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Zack998355.github.io/meine-produktseite/media/posts/2/61V1txZ0J7L._AC_SL1500_.jpg" alt="" />
-                    Die Govee RGBIC LED Stehlampe kombiniert modernes Design mit innovativer Technologie, um deinem Wohnraum eine individuelle und stimmungsvolle Beleuchtung zu verleihen.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://Zack998355.github.io/meine-produktseite/media/posts/2/61V1txZ0J7L._AC_SL1500_.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Die Govee RGBIC LED Stehlampe kombiniert modernes Design mit innovativer Technologie, um deinem Wohnraum eine individuelle und stimmungsvolle Beleuchtung zu verleihen.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>

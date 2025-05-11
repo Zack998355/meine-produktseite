@@ -5,24 +5,10 @@
     "home_page_url": "https://Zack998355.github.io/meine-produktseite",
     "feed_url": "https://Zack998355.github.io/meine-produktseite/feed.json",
     "user_comment": "",
+    "icon": "https://Zack998355.github.io/meine-produktseite/media/website/PF.jpeg",
     "author": {
         "name": "Zack"
     },
     "items": [
-        {
-            "id": "https://Zack998355.github.io/meine-produktseite/led-lamp.html",
-            "url": "https://Zack998355.github.io/meine-produktseite/led-lamp.html",
-            "title": "LED Lamp",
-            "summary": "Die Govee RGBIC LED Stehlampe kombiniert modernes Design mit innovativer Technologie, um deinem Wohnraum eine individuelle und stimmungsvolle Beleuchtung zu verleihen.",
-            "content_html": "<p>Die Govee RGBIC LED Stehlampe kombiniert modernes Design mit innovativer Technologie, um deinem Wohnraum eine individuelle und stimmungsvolle Beleuchtung zu verleihen.</p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/2/61V1txZ0J7L._AC_SL1500_.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-08T21:49:14+02:00",
-            "date_modified": "2025-05-08T21:49:56+02:00"
-        }
     ]
 }
