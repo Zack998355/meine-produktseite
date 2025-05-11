@@ -10,5 +10,19 @@
         "name": "Zack"
     },
     "items": [
+        {
+            "id": "https://Zack998355.github.io/meine-produktseite/stylisch-led.html",
+            "url": "https://Zack998355.github.io/meine-produktseite/stylisch-led.html",
+            "title": "Stylisch LED",
+            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "https://amzn.to/3RTy01A"
+            ],
+            "date_published": "2025-05-11T14:05:33+02:00",
+            "date_modified": "2025-05-11T14:05:33+02:00"
+        }
     ]
 }
