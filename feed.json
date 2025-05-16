@@ -11,6 +11,40 @@
     },
     "items": [
         {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/sniffing-rug-dog/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/sniffing-rug-dog/",
+            "title": "Sniffing Rug Dog",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/3F1XE1i\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/34/Sniffing-rug.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "For your pet",
+                   "For your Home"
+            ],
+            "date_published": "2025-05-16T13:57:04+02:00",
+            "date_modified": "2025-05-16T13:57:15+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/amazefan-led/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/amazefan-led/",
+            "title": "AmazeFan LED",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/42vzPb9\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/33/lampe.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Lightning",
+                   "For your Home"
+            ],
+            "date_published": "2025-05-16T13:55:10+02:00",
+            "date_modified": "2025-05-16T13:55:10+02:00"
+        },
+        {
             "id": "https://clever-beignet-f1bc1d.netlify.app/wood-wedge-wall-shelf/",
             "url": "https://clever-beignet-f1bc1d.netlify.app/wood-wedge-wall-shelf/",
             "title": "Wood Wedge Wall Shelf",
@@ -138,39 +172,6 @@
             ],
             "date_published": "2025-05-16T13:31:56+02:00",
             "date_modified": "2025-05-16T13:31:56+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/smart-wlan-light-bulb/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/smart-wlan-light-bulb/",
-            "title": "Smart WLAN Light Bulb",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/44fQUqI\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/24/Smart-bulb.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Lightning",
-                   "For your Home"
-            ],
-            "date_published": "2025-05-16T13:30:04+02:00",
-            "date_modified": "2025-05-16T13:30:04+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/cozy-chair/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/cozy-chair/",
-            "title": "Cozy chair",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/3EGtXmj\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/23/Hanging-chair.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your Home"
-            ],
-            "date_published": "2025-05-16T13:28:24+02:00",
-            "date_modified": "2025-05-16T13:28:24+02:00"
         }
     ]
 }
