@@ -11,164 +11,166 @@
     },
     "items": [
         {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/wireless-cat-fountain/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/wireless-cat-fountain/",
-            "title": "Wireless Cat Fountain",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/wood-wedge-wall-shelf/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/wood-wedge-wall-shelf/",
+            "title": "Wood Wedge Wall Shelf",
             "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4dhL6PY\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/17/Katzenbrunnen.jpg",
+            "content_html": "<p><a href=\"https://amzn.to/42KHJ0t\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/32/Wandregal.jpg",
             "author": {
                 "name": "Zack"
             },
             "tags": [
-                   "For your pet"
+                   "For your Home"
             ],
-            "date_published": "2025-05-16T12:59:21+02:00",
-            "date_modified": "2025-05-16T13:06:28+02:00"
+            "date_published": "2025-05-16T13:45:19+02:00",
+            "date_modified": "2025-05-16T13:45:19+02:00"
         },
         {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/skin-care-anti-wrinkle/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/skin-care-anti-wrinkle/",
-            "title": "Skin care, Anti-Wrinkle",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/hammock-with-frame/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/hammock-with-frame/",
+            "title": "Hammock with Frame",
             "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4m7z5R2\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/16/skin-care.jpg",
+            "content_html": "<p><a href=\"https://amzn.to/42T5gef\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/31/image_Pippit_202505011427.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "For your Home"
+            ],
+            "date_published": "2025-05-16T13:43:49+02:00",
+            "date_modified": "2025-05-16T13:43:49+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/4-plants/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/4-plants/",
+            "title": "4 Plants",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4lIIi2h\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/30/vaasen-Pflanzen.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Decor"
+            ],
+            "date_published": "2025-05-16T13:42:34+02:00",
+            "date_modified": "2025-05-16T13:42:34+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/lounge/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/lounge/",
+            "title": "Lounge",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4jDibZ3\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/29/Lounge.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "For your Home"
+            ],
+            "date_published": "2025-05-16T13:41:19+02:00",
+            "date_modified": "2025-05-16T13:41:19+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/air-purifier/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/air-purifier/",
+            "title": "Air Purifier",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/42X7tFI\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/28/Air-humid.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "For your Home"
+            ],
+            "date_published": "2025-05-16T13:39:46+02:00",
+            "date_modified": "2025-05-16T13:39:46+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/ambient-lighting/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/ambient-lighting/",
+            "title": "ambient lighting",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4lZ0kNG\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/27/Ambient-light.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Tools",
+                   "Car Accessories"
+            ],
+            "date_published": "2025-05-16T13:37:26+02:00",
+            "date_modified": "2025-05-16T13:37:26+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/bionoble-rizinusoel/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/bionoble-rizinusoel/",
+            "title": "Bionoble Rizinusöl",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/3GSmS2s\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/26/Rin-oel.jpg",
             "author": {
                 "name": "Zack"
             },
             "tags": [
                    "Skin care"
             ],
-            "date_published": "2025-05-16T12:55:48+02:00",
-            "date_modified": "2025-05-16T13:10:24+02:00"
+            "date_published": "2025-05-16T13:35:23+02:00",
+            "date_modified": "2025-05-16T13:35:23+02:00"
         },
         {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/dog-bed/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/dog-bed/",
-            "title": "Dog bed",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/womens-belt/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/womens-belt/",
+            "title": "women&#x27;s belt",
             "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4iXbVdi\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/15/Dogbed.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your pet"
-            ],
-            "date_published": "2025-05-16T12:53:02+02:00",
-            "date_modified": "2025-05-16T13:06:34+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/govee-tv-backlight/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/govee-tv-backlight/",
-            "title": "Govee TV Backlight",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4j04Mco\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/14/TV-Backlight.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Lightning"
-            ],
-            "date_published": "2025-05-16T12:51:42+02:00",
-            "date_modified": "2025-05-16T13:10:44+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/feandrea-cat-tree/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/feandrea-cat-tree/",
-            "title": "Feandrea Cat Tree",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/3GOUBKk\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/13/Katzenbaum.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your pet"
-            ],
-            "date_published": "2025-05-16T12:46:19+02:00",
-            "date_modified": "2025-05-16T13:06:39+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/track-pants/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/track-pants/",
-            "title": "Track Pants",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4dgMaDL\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/12/Track-pants.jpg",
+            "content_html": "<p><a href=\"https://amzn.to/4iP91Yb\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/25/Guertel.jpg",
             "author": {
                 "name": "Zack"
             },
             "tags": [
                    "clothing"
             ],
-            "date_published": "2025-05-16T12:41:04+02:00",
-            "date_modified": "2025-05-16T13:07:03+02:00"
+            "date_published": "2025-05-16T13:31:56+02:00",
+            "date_modified": "2025-05-16T13:31:56+02:00"
         },
         {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/3-piece-tank-top/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/3-piece-tank-top/",
-            "title": "3 Piece Tank Top",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/smart-wlan-light-bulb/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/smart-wlan-light-bulb/",
+            "title": "Smart WLAN Light Bulb",
             "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/3F80pOw\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/11/Tank-top.jpg",
+            "content_html": "<p><a href=\"https://amzn.to/44fQUqI\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/24/Smart-bulb.jpg",
             "author": {
                 "name": "Zack"
             },
             "tags": [
-                   "clothing"
+                   "Lightning",
+                   "For your Home"
             ],
-            "date_published": "2025-05-16T12:39:23+02:00",
-            "date_modified": "2025-05-16T13:07:08+02:00"
+            "date_published": "2025-05-16T13:30:04+02:00",
+            "date_modified": "2025-05-16T13:30:04+02:00"
         },
         {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/insta360-x5-waterproof-8k-360deg/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/insta360-x5-waterproof-8k-360deg/",
-            "title": "Insta360 X5 Waterproof 8K 360°",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/cozy-chair/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/cozy-chair/",
+            "title": "Cozy chair",
             "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4kmdToO\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/10/Insta-360.jpg",
+            "content_html": "<p><a href=\"https://amzn.to/3EGtXmj\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/23/Hanging-chair.jpg",
             "author": {
                 "name": "Zack"
             },
             "tags": [
-                   "Tools"
+                   "For your Home"
             ],
-            "date_published": "2025-05-16T12:37:41+02:00",
-            "date_modified": "2025-05-16T13:07:18+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/flat-iron-cordless-hair-2/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/flat-iron-cordless-hair-2/",
-            "title": "Flat Iron, Cordless Hair",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4kpCyZO\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/9/71uKI-YxZsL._AC_SY450_.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Tools"
-            ],
-            "date_published": "2025-05-16T11:41:59+02:00",
-            "date_modified": "2025-05-16T13:07:25+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/t-shirt-gym-top/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/t-shirt-gym-top/",
-            "title": "T-Shirt, Gym Top",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4cOhMjT\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/7/Gym-Top.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "clothing"
-            ],
-            "date_published": "2025-05-11T21:58:44+02:00",
-            "date_modified": "2025-05-16T13:07:29+02:00"
+            "date_published": "2025-05-16T13:28:24+02:00",
+            "date_modified": "2025-05-16T13:28:24+02:00"
         }
     ]
 }
