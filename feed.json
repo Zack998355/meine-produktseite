@@ -11,18 +11,19 @@
     },
     "items": [
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/stylisch-led.html",
-            "url": "https://Zack998355.github.io/meine-produktseite/stylisch-led.html",
-            "title": "Stylisch LED",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg",
+            "id": "https://Zack998355.github.io/meine-produktseite/co-driver-for-car.html",
+            "url": "https://Zack998355.github.io/meine-produktseite/co-driver-for-car.html",
+            "title": "CO-Driver for car",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/3EFjtU7\">Get it here</a></p>",
+            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/6/Co_Dirver.jpg",
             "author": {
                 "name": "Zack"
             },
             "tags": [
-                   "https://amzn.to/3RTy01A"
             ],
-            "date_published": "2025-05-11T14:05:33+02:00",
-            "date_modified": "2025-05-11T14:05:33+02:00"
+            "date_published": "2025-05-11T21:57:18+02:00",
+            "date_modified": "2025-05-16T10:46:09+02:00"
         }
     ]
 }

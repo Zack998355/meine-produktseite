@@ -3,24 +3,33 @@
     <title>Mood_House</title>
     <link href="https://Zack998355.github.io/meine-produktseite/feed.xml" rel="self" />
     <link href="https://Zack998355.github.io/meine-produktseite" />
-    <updated>2025-05-11T14:05:33+02:00</updated>
+    <updated>2025-05-16T10:46:09+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://Zack998355.github.io/meine-produktseite</id>
 
     <entry>
-        <title>Stylisch LED</title>
+        <title>CO-Driver for car</title>
         <author>
             <name>Zack</name>
         </author>
-        <link href="https://Zack998355.github.io/meine-produktseite/stylisch-led.html"/>
-        <id>https://Zack998355.github.io/meine-produktseite/stylisch-led.html</id>
-        <media:content url="https://Zack998355.github.io/meine-produktseite/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg" medium="image" />
-            <category term="https://amzn.to/3RTy01A"/>
+        <link href="https://Zack998355.github.io/meine-produktseite/co-driver-for-car.html"/>
+        <id>https://Zack998355.github.io/meine-produktseite/co-driver-for-car.html</id>
+        <media:content url="https://Zack998355.github.io/meine-produktseite/media/posts/6/Co_Dirver.jpg" medium="image" />
 
-        <updated>2025-05-11T14:05:33+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2025-05-11T21:57:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Zack998355.github.io/meine-produktseite/media/posts/6/Co_Dirver.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Zack998355.github.io/meine-produktseite/media/posts/6/Co_Dirver.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/3EFjtU7">Get it here</a></p>
+            ]]>
+        </content>
     </entry>
 </feed>
