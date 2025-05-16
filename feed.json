@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://Zack998355.github.io/meine-produktseite/flat-iron-cordless-hair-2.html",
+            "url": "https://Zack998355.github.io/meine-produktseite/flat-iron-cordless-hair-2.html",
+            "title": "Flat Iron, Cordless Hair",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4kpCyZO\">Get it here</a></p>",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-16T11:41:59+02:00",
+            "date_modified": "2025-05-16T11:45:34+02:00"
+        },
+        {
             "id": "https://Zack998355.github.io/meine-produktseite/t-shirt-gym-top.html",
             "url": "https://Zack998355.github.io/meine-produktseite/t-shirt-gym-top.html",
             "title": "T-Shirt, Gym Top",
