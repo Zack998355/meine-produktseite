@@ -39,6 +39,21 @@
             ],
             "date_published": "2025-05-11T21:57:18+02:00",
             "date_modified": "2025-05-16T10:46:09+02:00"
+        },
+        {
+            "id": "https://Zack998355.github.io/meine-produktseite/brubaker-cosmetics.html",
+            "url": "https://Zack998355.github.io/meine-produktseite/brubaker-cosmetics.html",
+            "title": "BRUBAKER Cosmetics",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4jS2YTz\">Get it here</a></p>",
+            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/5/Brubaker-Costmetics.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-11T21:54:58+02:00",
+            "date_modified": "2025-05-16T10:47:03+02:00"
         }
     ]
 }
