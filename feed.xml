@@ -3,12 +3,58 @@
     <title>Mood_House</title>
     <link href="https://clever-beignet-f1bc1d.netlify.app/feed.xml" rel="self" />
     <link href="https://clever-beignet-f1bc1d.netlify.app" />
-    <updated>2025-05-16T12:47:26+02:00</updated>
+    <updated>2025-05-16T12:53:14+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://clever-beignet-f1bc1d.netlify.app</id>
 
+    <entry>
+        <title>Dog bed</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/dog-bed/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/dog-bed/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/15/Dogbed.jpg" medium="image" />
+
+        <updated>2025-05-16T12:53:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/15/Dogbed.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/15/Dogbed.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/4iXbVdi">Get it here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Govee TV Backlight</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/govee-tv-backlight/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/govee-tv-backlight/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/14/TV-Backlight.jpg" medium="image" />
+
+        <updated>2025-05-16T12:51:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/14/TV-Backlight.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/14/TV-Backlight.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/4j04Mco">Get it here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Feandrea Cat Tree</title>
         <author>
@@ -190,52 +236,6 @@
             <![CDATA[
                     <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/5/Brubaker-Costmetics.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://amzn.to/4jS2YTz">Get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>pampasgras decor</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/pampasgras-decor/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/pampasgras-decor/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/4/Pampagras.jpg" medium="image" />
-
-        <updated>2025-05-11T21:53:16+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/4/Pampagras.jpg" alt="" />
-                    Get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/4/Pampagras.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/3S8rh3G">Get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Stylisch LED</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/stylisch-led/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/stylisch-led/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg" medium="image" />
-
-        <updated>2025-05-11T14:05:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg" alt="" />
-                    Get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/3RTy01A">Get it here</a></p>
             ]]>
         </content>
     </entry>
