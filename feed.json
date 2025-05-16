@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Mood_House",
     "description": "",
-    "home_page_url": "https://Zack998355.github.io/meine-produktseite",
-    "feed_url": "https://Zack998355.github.io/meine-produktseite/feed.json",
+    "home_page_url": "https://clever-beignet-f1bc1d.netlify.app",
+    "feed_url": "https://clever-beignet-f1bc1d.netlify.app/feed.json",
     "user_comment": "",
-    "icon": "https://Zack998355.github.io/meine-produktseite/media/website/PF.jpeg",
+    "icon": "https://clever-beignet-f1bc1d.netlify.app/media/website/PF.jpeg",
     "author": {
         "name": "Zack"
     },
     "items": [
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/flat-iron-cordless-hair-2/",
-            "url": "https://Zack998355.github.io/meine-produktseite/flat-iron-cordless-hair-2/",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/flat-iron-cordless-hair-2/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/flat-iron-cordless-hair-2/",
             "title": "Flat Iron, Cordless Hair",
             "summary": "Get it here",
             "content_html": "<p><a href=\"https://amzn.to/4kpCyZO\">Get it here</a></p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/9/71uKI-YxZsL._AC_SY450_.jpg",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/9/71uKI-YxZsL._AC_SY450_.jpg",
             "author": {
                 "name": "Zack"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2025-05-16T11:46:20+02:00"
         },
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/t-shirt-gym-top/",
-            "url": "https://Zack998355.github.io/meine-produktseite/t-shirt-gym-top/",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/t-shirt-gym-top/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/t-shirt-gym-top/",
             "title": "T-Shirt, Gym Top",
             "summary": "Get it here",
             "content_html": "<p><a href=\"https://amzn.to/4cOhMjT\">Get it here</a></p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/7/Gym-Top.jpg",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/7/Gym-Top.jpg",
             "author": {
                 "name": "Zack"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2025-05-16T11:31:41+02:00"
         },
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/co-driver-for-car/",
-            "url": "https://Zack998355.github.io/meine-produktseite/co-driver-for-car/",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/co-driver-for-car/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/co-driver-for-car/",
             "title": "CO-Driver for car",
             "summary": "Get it here",
             "content_html": "<p><a href=\"https://amzn.to/3EFjtU7\">Get it here</a></p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/6/Co_Dirver.jpg",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/6/Co_Dirver.jpg",
             "author": {
                 "name": "Zack"
             },
@@ -56,12 +56,12 @@
             "date_modified": "2025-05-16T10:46:09+02:00"
         },
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/brubaker-cosmetics/",
-            "url": "https://Zack998355.github.io/meine-produktseite/brubaker-cosmetics/",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/brubaker-cosmetics/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/brubaker-cosmetics/",
             "title": "BRUBAKER Cosmetics",
             "summary": "Get it here",
             "content_html": "<p><a href=\"https://amzn.to/4jS2YTz\">Get it here</a></p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/5/Brubaker-Costmetics.jpg",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/5/Brubaker-Costmetics.jpg",
             "author": {
                 "name": "Zack"
             },
@@ -71,12 +71,12 @@
             "date_modified": "2025-05-16T10:47:03+02:00"
         },
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/pampasgras-decor/",
-            "url": "https://Zack998355.github.io/meine-produktseite/pampasgras-decor/",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/pampasgras-decor/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/pampasgras-decor/",
             "title": "pampasgras decor",
             "summary": "Get it here",
             "content_html": "<p><a href=\"https://amzn.to/3S8rh3G\">Get it here</a></p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/4/Pampagras.jpg",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/4/Pampagras.jpg",
             "author": {
                 "name": "Zack"
             },
@@ -86,12 +86,12 @@
             "date_modified": "2025-05-16T11:08:35+02:00"
         },
         {
-            "id": "https://Zack998355.github.io/meine-produktseite/stylisch-led/",
-            "url": "https://Zack998355.github.io/meine-produktseite/stylisch-led/",
+            "id": "https://clever-beignet-f1bc1d.netlify.app/stylisch-led/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/stylisch-led/",
             "title": "Stylisch LED",
             "summary": "Get it here",
             "content_html": "<p><a href=\"https://amzn.to/3RTy01A\">Get it here</a></p>",
-            "image": "https://Zack998355.github.io/meine-produktseite/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/3/61V1txZ0J7L._AC_SL1500_.jpg",
             "author": {
                 "name": "Zack"
             },
