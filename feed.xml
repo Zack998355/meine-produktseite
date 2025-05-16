@@ -3,7 +3,7 @@
     <title>Mood_House</title>
     <link href="https://Zack998355.github.io/meine-produktseite/feed.xml" rel="self" />
     <link href="https://Zack998355.github.io/meine-produktseite" />
-    <updated>2025-05-16T11:45:34+02:00</updated>
+    <updated>2025-05-16T11:46:20+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://Zack998355.github.io/meine-produktseite/flat-iron-cordless-hair-2.html"/>
         <id>https://Zack998355.github.io/meine-produktseite/flat-iron-cordless-hair-2.html</id>
+        <media:content url="https://Zack998355.github.io/meine-produktseite/media/posts/9/71uKI-YxZsL._AC_SY450_.jpg" medium="image" />
 
         <updated>2025-05-16T11:41:59+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Zack998355.github.io/meine-produktseite/media/posts/9/71uKI-YxZsL._AC_SY450_.jpg" alt="" />
                     Get it here
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Zack998355.github.io/meine-produktseite/media/posts/9/71uKI-YxZsL._AC_SY450_.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://amzn.to/4kpCyZO">Get it here</a></p>
             ]]>
         </content>
