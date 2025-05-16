@@ -3,12 +3,58 @@
     <title>Mood_House</title>
     <link href="https://clever-beignet-f1bc1d.netlify.app/feed.xml" rel="self" />
     <link href="https://clever-beignet-f1bc1d.netlify.app" />
-    <updated>2025-05-16T11:46:20+02:00</updated>
+    <updated>2025-05-16T12:39:23+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://clever-beignet-f1bc1d.netlify.app</id>
 
+    <entry>
+        <title>3 Piece Tank Top</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/3-piece-tank-top/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/3-piece-tank-top/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/11/Tank-top.jpg" medium="image" />
+
+        <updated>2025-05-16T12:39:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/11/Tank-top.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/11/Tank-top.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/3F80pOw">Get it here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Insta360 X5 Waterproof 8K 360°</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/insta360-x5-waterproof-8k-360deg/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/insta360-x5-waterproof-8k-360deg/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/10/Insta-360.jpg" medium="image" />
+
+        <updated>2025-05-16T12:37:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/10/Insta-360.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/10/Insta-360.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/4kmdToO">Get it here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Flat Iron, Cordless Hair</title>
         <author>
