@@ -3,12 +3,61 @@
     <title>Mood_House</title>
     <link href="https://clever-beignet-f1bc1d.netlify.app/feed.xml" rel="self" />
     <link href="https://clever-beignet-f1bc1d.netlify.app" />
-    <updated>2025-05-16T13:57:15+02:00</updated>
+    <updated>2025-05-17T15:15:44+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://clever-beignet-f1bc1d.netlify.app</id>
 
+    <entry>
+        <title>Mini Fridge</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/mini-fridge/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/mini-fridge/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/36/mini-fridge.jpg" medium="image" />
+            <category term="Gifts"/>
+            <category term="For your Home"/>
+
+        <updated>2025-05-17T15:15:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/36/mini-fridge.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/36/mini-fridge.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/43Ixx7Z">Get it here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Vintage Key holder</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/vintage-key-holder/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/vintage-key-holder/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/35/key-holder.jpg" medium="image" />
+            <category term="For your Home"/>
+
+        <updated>2025-05-17T15:14:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/35/key-holder.jpg" alt="" />
+                    https://amzn.to/44HOtxq[Get it here](https://amzn.to/44HOtxq)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/35/key-holder.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/44HOtxq%5BGet">https://amzn.to/44HOtxq[Get</a> it here](<a href="https://amzn.to/44HOtxq">https://amzn.to/44HOtxq</a>)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sniffing Rug Dog</title>
         <author>
@@ -201,54 +250,6 @@
             <![CDATA[
                     <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/27/Ambient-light.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://amzn.to/4lZ0kNG">Get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bionoble Rizinusöl</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/bionoble-rizinusoel/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/bionoble-rizinusoel/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/26/Rin-oel.jpg" medium="image" />
-            <category term="Skin care"/>
-
-        <updated>2025-05-16T13:35:23+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/26/Rin-oel.jpg" alt="" />
-                    Get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/26/Rin-oel.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/3GSmS2s">Get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>women&#x27;s belt</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/womens-belt/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/womens-belt/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/25/Guertel.jpg" medium="image" />
-            <category term="clothing"/>
-
-        <updated>2025-05-16T13:31:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/25/Guertel.jpg" alt="" />
-                    Get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/25/Guertel.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/4iP91Yb">Get it here</a></p>
             ]]>
         </content>
     </entry>
