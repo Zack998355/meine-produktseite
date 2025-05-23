@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/wall-toothbrush-holder/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/wall-toothbrush-holder/",
+            "title": "Wall Toothbrush Holder",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/43QdGDV\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/37/Ablage-badezimmer.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "For your Home"
+            ],
+            "date_published": "2025-05-23T16:39:21+02:00",
+            "date_modified": "2025-05-23T16:39:21+02:00"
+        },
+        {
             "id": "https://clever-beignet-f1bc1d.netlify.app/mini-fridge/",
             "url": "https://clever-beignet-f1bc1d.netlify.app/mini-fridge/",
             "title": "Mini Fridge",
@@ -156,23 +172,6 @@
             ],
             "date_published": "2025-05-16T13:39:46+02:00",
             "date_modified": "2025-05-16T13:39:46+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/ambient-lighting/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/ambient-lighting/",
-            "title": "ambient lighting",
-            "summary": "Get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4lZ0kNG\">Get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/27/Ambient-light.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Tools",
-                   "Car Accessories"
-            ],
-            "date_published": "2025-05-16T13:37:26+02:00",
-            "date_modified": "2025-05-16T13:37:26+02:00"
         }
     ]
 }
