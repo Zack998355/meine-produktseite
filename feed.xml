@@ -3,12 +3,37 @@
     <title>Mood_House</title>
     <link href="https://clever-beignet-f1bc1d.netlify.app/feed.xml" rel="self" />
     <link href="https://clever-beignet-f1bc1d.netlify.app" />
-    <updated>2025-05-25T23:14:07+02:00</updated>
+    <updated>2025-06-03T18:43:47+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://clever-beignet-f1bc1d.netlify.app</id>
 
+    <entry>
+        <title>Women&#x27;s Leggings with Pockets</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/womens-leggings-with-pockets/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/womens-leggings-with-pockets/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/48/Leggings.jpg" medium="image" />
+            <category term="clothing"/>
+            <category term="Gifts"/>
+
+        <updated>2025-06-03T18:43:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/48/Leggings.jpg" alt="" />
+                    Get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/48/Leggings.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/4476F1F">Get it here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Open Wardrobe</title>
         <author>
@@ -226,31 +251,6 @@
             <![CDATA[
                     <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/39/Vintage-lamp.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://amzn.to/43o5jz9">get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ice Cream Maker</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/ice-cream-maker/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/ice-cream-maker/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/38/ice-cream-2.jpg" medium="image" />
-            <category term="summer"/>
-            <category term="For your Home"/>
-
-        <updated>2025-05-23T16:44:35+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/38/ice-cream-2.jpg" alt="" />
-                    get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/38/ice-cream-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/4dlWnyy">get it here</a></p>
             ]]>
         </content>
     </entry>

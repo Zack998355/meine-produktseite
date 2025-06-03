@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/womens-leggings-with-pockets/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/womens-leggings-with-pockets/",
+            "title": "Women&#x27;s Leggings with Pockets",
+            "summary": "Get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4476F1F\">Get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/48/Leggings.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "clothing",
+                   "Gifts"
+            ],
+            "date_published": "2025-06-03T18:43:32+02:00",
+            "date_modified": "2025-06-03T18:43:47+02:00"
+        },
+        {
             "id": "https://clever-beignet-f1bc1d.netlify.app/open-wardrobe/",
             "url": "https://clever-beignet-f1bc1d.netlify.app/open-wardrobe/",
             "title": "Open Wardrobe",
@@ -157,23 +174,6 @@
             ],
             "date_published": "2025-05-23T16:46:02+02:00",
             "date_modified": "2025-05-23T16:53:02+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/ice-cream-maker/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/ice-cream-maker/",
-            "title": "Ice Cream Maker",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4dlWnyy\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/38/ice-cream-2.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "summer",
-                   "For your Home"
-            ],
-            "date_published": "2025-05-23T16:44:35+02:00",
-            "date_modified": "2025-05-23T16:44:35+02:00"
         }
     ]
 }
