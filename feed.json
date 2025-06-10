@@ -11,6 +11,76 @@
     },
     "items": [
         {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/electric-cleaning-brush/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/electric-cleaning-brush/",
+            "title": "Electric Cleaning Brush",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/45n6eT7\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/52/cleaning-brush.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Tools",
+                   "Gadgets",
+                   "For your Home"
+            ],
+            "date_published": "2025-06-10T16:00:53+02:00",
+            "date_modified": "2025-06-10T16:01:16+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/mini-film-sealer/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/mini-film-sealer/",
+            "title": "Mini Film Sealer",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4jMfm78\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/51/Film-sealer.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Tools",
+                   "For your Home"
+            ],
+            "date_published": "2025-06-10T16:00:03+02:00",
+            "date_modified": "2025-06-10T16:00:22+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/sun-protection-applicator/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/sun-protection-applicator/",
+            "title": "Sun Protection Applicator",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4mV67UU\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/50/Sun-Protection-applicator.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "summer",
+                   "Skin care",
+                   "Gifts"
+            ],
+            "date_published": "2025-06-10T15:59:00+02:00",
+            "date_modified": "2025-06-10T15:59:31+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/magsafe-wallet/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/magsafe-wallet/",
+            "title": "MagSafe Wallet",
+            "summary": "https://amzn.to/400eViq[get it here](https://amzn.to/400eViq)",
+            "content_html": "<p><a href=\"https://amzn.to/400eViq%5Bget\">https://amzn.to/400eViq[get</a> it here](<a href=\"https://amzn.to/400eViq\">https://amzn.to/400eViq</a>)</p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/49/MagSafe-Wallet.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Gifts",
+                   "Gadgets"
+            ],
+            "date_published": "2025-06-10T15:42:18+02:00",
+            "date_modified": "2025-06-10T15:57:42+02:00"
+        },
+        {
             "id": "https://clever-beignet-f1bc1d.netlify.app/womens-leggings-with-pockets/",
             "url": "https://clever-beignet-f1bc1d.netlify.app/womens-leggings-with-pockets/",
             "title": "Women&#x27;s Leggings with Pockets",
@@ -109,71 +179,6 @@
             ],
             "date_published": "2025-05-23T17:10:56+02:00",
             "date_modified": "2025-05-23T17:10:56+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/soap-dispenser/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/soap-dispenser/",
-            "title": "Soap Dispenser",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/45rj3vt\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/42/Soap-dispens.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your Home"
-            ],
-            "date_published": "2025-05-23T17:02:04+02:00",
-            "date_modified": "2025-05-23T17:02:04+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/room-fragrance/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/room-fragrance/",
-            "title": "Room Fragrance",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/3F6wRkx\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/41/ipuro-duft.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your Home"
-            ],
-            "date_published": "2025-05-23T16:52:55+02:00",
-            "date_modified": "2025-05-23T16:52:55+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/bath-mat-stone/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/bath-mat-stone/",
-            "title": "Bath Mat Stone",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/3YRLte2\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/40/bathmat.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your Home"
-            ],
-            "date_published": "2025-05-23T16:49:36+02:00",
-            "date_modified": "2025-05-23T16:49:36+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/vintage-light/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/vintage-light/",
-            "title": "Vintage Light",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/43o5jz9\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/39/Vintage-lamp.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Lightning",
-                   "For your Home"
-            ],
-            "date_published": "2025-05-23T16:46:02+02:00",
-            "date_modified": "2025-05-23T16:53:02+02:00"
         }
     ]
 }
