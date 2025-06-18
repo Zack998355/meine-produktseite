@@ -3,12 +3,112 @@
     <title>Mood_House</title>
     <link href="https://clever-beignet-f1bc1d.netlify.app/feed.xml" rel="self" />
     <link href="https://clever-beignet-f1bc1d.netlify.app" />
-    <updated>2025-06-10T16:01:16+02:00</updated>
+    <updated>2025-06-18T16:03:34+02:00</updated>
     <author>
         <name>Zack</name>
     </author>
     <id>https://clever-beignet-f1bc1d.netlify.app</id>
 
+    <entry>
+        <title> Interactive Dog Ball</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/interactive-dog-ball/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/interactive-dog-ball/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/56/Screenshot-2025-06-17-135616.png" medium="image" />
+            <category term="Gadgets"/>
+            <category term="For your pet"/>
+
+        <updated>2025-06-18T16:03:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/56/Screenshot-2025-06-17-135616.png" alt="" />
+                    get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/56/Screenshot-2025-06-17-135616.png" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/4n8U5HM">get it here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Double leash</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/double-leash/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/double-leash/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/55/Hundeleine.jpg" medium="image" />
+            <category term="Gadgets"/>
+            <category term="For your pet"/>
+
+        <updated>2025-06-18T16:02:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/55/Hundeleine.jpg" alt="" />
+                    get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/55/Hundeleine.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/4eclvbF">get it here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>GPS Tracker Dog</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/gps-tracker-dog/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/gps-tracker-dog/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/54/Screenshot-2025-06-17-141539.png" medium="image" />
+            <category term="Gadgets"/>
+            <category term="For your pet"/>
+
+        <updated>2025-06-18T15:59:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/54/Screenshot-2025-06-17-141539.png" alt="" />
+                    get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/54/Screenshot-2025-06-17-141539.png" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/407BRwi">get it here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brush with Steam</title>
+        <author>
+            <name>Zack</name>
+        </author>
+        <link href="https://clever-beignet-f1bc1d.netlify.app/brush-with-steam/"/>
+        <id>https://clever-beignet-f1bc1d.netlify.app/brush-with-steam/</id>
+        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/53/Brush.jpg" medium="image" />
+            <category term="Gadgets"/>
+            <category term="For your pet"/>
+
+        <updated>2025-06-18T15:57:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/53/Brush.jpg" alt="" />
+                    get it here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/53/Brush.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://amzn.to/3TuoeU9">get it here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Electric Cleaning Brush</title>
         <author>
@@ -157,105 +257,6 @@
             <![CDATA[
                     <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/47/open-warderobe.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://amzn.to/43qAOIM">get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mini Projector</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/mini-projector/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/mini-projector/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/46/mini-projektor.jpg" medium="image" />
-            <category term="Tools"/>
-            <category term="For your Home"/>
-
-        <updated>2025-05-25T23:12:45+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/46/mini-projektor.jpg" alt="" />
-                    get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/46/mini-projektor.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/44OHvGU">get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wall Shelf Bookcase</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/wall-shelf-bookcase/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/wall-shelf-bookcase/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/45/wall-sehlf-shoe.jpg" medium="image" />
-            <category term="For your Home"/>
-
-        <updated>2025-05-25T23:11:41+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/45/wall-sehlf-shoe.jpg" alt="" />
-                    get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/45/wall-sehlf-shoe.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/44OtCZj">get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jellyfish Lamp</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/jellyfish-lamp/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/jellyfish-lamp/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/44/Jellyfish-lamp.jpg" medium="image" />
-            <category term="Lightning"/>
-            <category term="For your Home"/>
-
-        <updated>2025-05-25T23:10:29+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/44/Jellyfish-lamp.jpg" alt="" />
-                    get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/44/Jellyfish-lamp.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/4dy9ug9">get it here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Travel Lock</title>
-        <author>
-            <name>Zack</name>
-        </author>
-        <link href="https://clever-beignet-f1bc1d.netlify.app/travel-lock/"/>
-        <id>https://clever-beignet-f1bc1d.netlify.app/travel-lock/</id>
-        <media:content url="https://clever-beignet-f1bc1d.netlify.app/media/posts/43/travel-lock.jpg" medium="image" />
-            <category term="travel"/>
-            <category term="Tools"/>
-
-        <updated>2025-05-23T17:10:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/43/travel-lock.jpg" alt="" />
-                    get it here
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://clever-beignet-f1bc1d.netlify.app/media/posts/43/travel-lock.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://amzn.to/4kqZAiK">get it here</a></p>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,74 @@
     },
     "items": [
         {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/interactive-dog-ball/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/interactive-dog-ball/",
+            "title": " Interactive Dog Ball",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4n8U5HM\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/56/Screenshot-2025-06-17-135616.png",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Gadgets",
+                   "For your pet"
+            ],
+            "date_published": "2025-06-18T16:03:34+02:00",
+            "date_modified": "2025-06-18T16:03:34+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/double-leash/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/double-leash/",
+            "title": "Double leash",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/4eclvbF\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/55/Hundeleine.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Gadgets",
+                   "For your pet"
+            ],
+            "date_published": "2025-06-18T16:02:28+02:00",
+            "date_modified": "2025-06-18T16:02:28+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/gps-tracker-dog/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/gps-tracker-dog/",
+            "title": "GPS Tracker Dog",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/407BRwi\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/54/Screenshot-2025-06-17-141539.png",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Gadgets",
+                   "For your pet"
+            ],
+            "date_published": "2025-06-18T15:59:26+02:00",
+            "date_modified": "2025-06-18T15:59:26+02:00"
+        },
+        {
+            "id": "https://clever-beignet-f1bc1d.netlify.app/brush-with-steam/",
+            "url": "https://clever-beignet-f1bc1d.netlify.app/brush-with-steam/",
+            "title": "Brush with Steam",
+            "summary": "get it here",
+            "content_html": "<p><a href=\"https://amzn.to/3TuoeU9\">get it here</a></p>",
+            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/53/Brush.jpg",
+            "author": {
+                "name": "Zack"
+            },
+            "tags": [
+                   "Gadgets",
+                   "For your pet"
+            ],
+            "date_published": "2025-06-18T15:57:52+02:00",
+            "date_modified": "2025-06-18T15:57:52+02:00"
+        },
+        {
             "id": "https://clever-beignet-f1bc1d.netlify.app/electric-cleaning-brush/",
             "url": "https://clever-beignet-f1bc1d.netlify.app/electric-cleaning-brush/",
             "title": "Electric Cleaning Brush",
@@ -112,73 +180,6 @@
             ],
             "date_published": "2025-05-25T23:14:07+02:00",
             "date_modified": "2025-05-25T23:14:07+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/mini-projector/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/mini-projector/",
-            "title": "Mini Projector",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/44OHvGU\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/46/mini-projektor.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Tools",
-                   "For your Home"
-            ],
-            "date_published": "2025-05-25T23:12:45+02:00",
-            "date_modified": "2025-05-25T23:12:45+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/wall-shelf-bookcase/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/wall-shelf-bookcase/",
-            "title": "Wall Shelf Bookcase",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/44OtCZj\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/45/wall-sehlf-shoe.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "For your Home"
-            ],
-            "date_published": "2025-05-25T23:11:41+02:00",
-            "date_modified": "2025-05-25T23:11:41+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/jellyfish-lamp/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/jellyfish-lamp/",
-            "title": "Jellyfish Lamp",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4dy9ug9\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/44/Jellyfish-lamp.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "Lightning",
-                   "For your Home"
-            ],
-            "date_published": "2025-05-25T23:10:29+02:00",
-            "date_modified": "2025-05-25T23:10:29+02:00"
-        },
-        {
-            "id": "https://clever-beignet-f1bc1d.netlify.app/travel-lock/",
-            "url": "https://clever-beignet-f1bc1d.netlify.app/travel-lock/",
-            "title": "Travel Lock",
-            "summary": "get it here",
-            "content_html": "<p><a href=\"https://amzn.to/4kqZAiK\">get it here</a></p>",
-            "image": "https://clever-beignet-f1bc1d.netlify.app/media/posts/43/travel-lock.jpg",
-            "author": {
-                "name": "Zack"
-            },
-            "tags": [
-                   "travel",
-                   "Tools"
-            ],
-            "date_published": "2025-05-23T17:10:56+02:00",
-            "date_modified": "2025-05-23T17:10:56+02:00"
         }
     ]
 }
